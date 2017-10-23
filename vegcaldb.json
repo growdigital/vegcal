@@ -1,0 +1,236 @@
+{
+  "asparagus": {
+    "cover": [2],
+    "plant": [3,4],
+    "harvest": [5,6]
+  },
+  "aubergine": {
+    "cover": [2,3],
+    "plant": [5,6],
+    "harvest": [8,9,10]
+  },
+  "beetroot": {
+    "cover": [3,4,5,6],
+    "plant": [5,6,7],
+    "direct": [4,5,6,7],
+    "harvest": [7,8,9,10]
+  },
+  "borlotti": {
+    "cover": [3,4,5,6,7],
+    "plant": [5,6,7],
+    "direct": [4,5,6,7],
+    "harvest": [8,9,10]
+  },
+  "broad beans": {
+    "cover": [2,3,4,5],
+    "plant": [4,5,6,7],
+    "direct": [4,11],
+    "harvest": [4,5,6,7,8,9]
+  },
+  "brussel sprouts": {
+    "cover": [2,3,4],
+    "plant": [5,6],
+    "harvest": [1,2,3,4,10,11,12]
+  },
+  "cabbage (summer/autumn)": {
+    "cover": [3,4],
+    "plant": [5,6],
+    "harvest": [6,7,8,9,10]
+  },
+  "cabbage (winter)": {
+    "cover": [4,5],
+    "plant": [6,7],
+    "harvest": [1,2,3,11,12]
+  },
+  "cabbage (spring)": {
+    "cover": [7,8],
+    "plant": [9,10],
+    "harvest": [3,4,5,6]
+  },
+  "calabrese": {
+    "cover": [3,4,5],
+    "plant": [4,5,6],
+    "direct": [3,4,5],
+    "harvest": [6,7,8,9]
+  },
+  "cardoon": {
+    "cover": [3,4],
+    "plant": [5,6],
+    "harvest": [10,11]
+  },
+  "carrot": {
+    "direct": [3,4,5,6],
+    "harvest": [5,6,7,8,9,10,11]
+  },
+  "cauliflower (summer)": {
+    "cover": [1,2,3],
+    "plant": [3,4,5],
+    "harvest": [6,7,8,9,10]
+  },
+  "cauliflower (winter)": {
+    "cover": [4,5,6,7],
+    "plant": [7,8,9,10],
+    "harvest": [1,2,3,4,5]
+  },
+  "celeriac": {
+    "cover": [2,3],
+    "plant": [5,6],
+    "harvest": [1,2,3,9,10,11,12]
+  },
+  "celery": {
+    "cover": [2,3],
+    "plant": [5,6],
+    "harvest": [8,9,10]
+  },
+  "chard": {
+    "cover": [3,4,5,6,7,8,9],
+    "plant": [4,5,6,7,8,9,10],
+    "direct": [4,5,6,7,8],
+    "harvest": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+  "chicory": {
+    "direct": [5,6,7],
+    "harvest": [1,10,11,12]
+  },
+  "chilli": {
+    "cover": [2,3,4],
+    "plant": [6],
+    "harvest": [8,9,10]
+  },
+  "courgette": {
+    "cover": [4,5,6],
+    "plant": [5,6,7],
+    "harvest": [7,8,9,10]
+  },
+  "cucumber": {
+    "cover": [3,4,5],
+    "plant": [5,6],
+    "harvest": [7,8,9,10]
+  },
+  "endive": {
+    "direct": [5,6,7,8],
+    "harvest": [1,2,3,8,9,10,11,12]
+  },
+  "florence fennel": {
+    "direct": [4,5,6,7],
+    "harvest": [6,7,8,9,10,11]
+  },
+  "french beans": {
+    "cover": [3,4,5,6,7],
+    "plant": [5,6,7,8],
+    "direct": [4,5,6,7],
+    "harvest": [5,6,7,8,9,10]
+  },
+  "garlic": {
+    "cover": [2,3],
+    "plant": [5,6],
+    "harvest": [5,6,7,8,9]
+  },
+  "jerusalem artichoke": {
+    "direct": [1,2,3],
+    "harvest": [1,2,3,10,11,12]
+  },
+  "kale": {
+    "cover": [3,4,5,6,7,8],
+    "plant": [4,5,6,7,8,9],
+    "harvest": [1,2,6,7,8,9,10,11,12]
+  },
+  "leek": {
+    "cover": [2,3,4],
+    "plant": [6,7],
+    "harvest": [1,2,3,4,5,9,10,11,12]
+  },
+  "lettuce": {
+    "cover": [1,2,3,4,5,6,7,8,9],
+    "plant": [4,5,6,7,8,9,10],
+    "direct": [3,4,5,6,7,8,9],
+    "harvest": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+  "onion": {
+    "direct": [3,4],
+    "harvest": [5,6,7,8,9,10]
+  },
+  "parsnip": {
+    "direct": [3,4,5],
+    "harvest": [1,2,3,8,9,10,11,12]
+  },
+  "pea": {
+    "cover": [2,3,4,5],
+    "plant": [5,6],
+    "direct": [3,4,5,6],
+    "harvest": [5,6,7,8,9,10]
+  },
+  "pepper": {
+    "cover": [2,3],
+    "plant": [5,6],
+    "harvest": [8,9,10,11]
+  },
+  "potato": {
+    "direct": [2,3,4],
+    "harvest": [5,6,7,8,9,10]
+  },
+  "radish": {
+    "direct": [3,4,5,6,7,8,9],
+    "harvest": [4,5,6,7,8,9,10,11]
+  },
+  "rocket": {
+    "direct": [3,4,5,6,7,8,9],
+    "harvest": [4,5,6,7,8,9,10,11]
+  },
+  "runner beans": {
+    "cover": [4,5,6],
+    "plant": [5,6,7],
+    "direct": [4,5],
+    "harvest": [6,7,8,9,10]
+  },
+  "salsify & scorzonera": {
+    "direct": [4,5],
+    "harvest": [10,11]
+  },
+  "shallot": {
+    "direct": [2,3],
+    "harvest": [7,8,9]
+  },
+  "sorrel": {
+    "direct": [2,3],
+    "harvest": [6,7,8,9,10,11]
+  },
+  "spinach": {
+    "direct": [3,4,5,6,7,8,9,10],
+    "harvest": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+  "spring onion": {
+    "direct": [2,3,4,5,6,7,8,10,11],
+    "harvest": [2,3,4,5,6,7,8,9,10,11]
+  },
+  "sprouting broccoli": {
+    "cover": [3,4],
+    "plant": [6,7],
+    "direct": [4,5],
+    "harvest": [1,2,3,4]
+  },
+  "squash": {
+    "cover": [3,4,5],
+    "plant": [6,7],
+    "harvest": [10,11]
+  },
+  "swede": {
+    "direct": [4,5,6],
+    "harvest": [1,2,9,10,11,12]
+  },
+  "sweetcorn": {
+    "cover": [4],
+    "plant": [5,6],
+    "direct": [5],
+    "harvest": [7,8,9]
+  },
+  "tomato": {
+    "cover": [2,3],
+    "plant": [4,5,6],
+    "harvest": [7,8,9,10]
+  },
+  "turnip": {
+    "direct": [3,4,5,6,7],
+    "harvest": [6,7,8,9,10]
+  }
+}
